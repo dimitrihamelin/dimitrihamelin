@@ -32,7 +32,7 @@
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  💼 LinkedIn : <a target="_blank" href="https://fr.linkedin.com/in/dimitri-hamelin">Votre Profil LinkedIn</a>
+  💼 LinkedIn : <a target="_blank" href="https://fr.linkedin.com/in/dimitri-hamelin-15b854256?original_referer=https%3A%2F%2Fwww.google.com%2F">Votre Profil LinkedIn </a>
 </p>
 
 <p align="center">N'hésitez pas à explorer mes repositories pour découvrir mes projets et à me contacter si vous avez des questions ou souhaitez discuter de collaborations potentielles. Merci de visiter mon profil ! 😊</p>
