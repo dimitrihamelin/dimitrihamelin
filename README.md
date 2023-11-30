@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**dimitrihamelin/dimitrihamelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenue sur mon profil GitHub ! 🎉
 
-Here are some ideas to get you started:
+## À propos de moi
+Je suis passionné(e) par [votre domaine d'expertise], et j'aime explorer de nouvelles technologies et résoudre des problèmes complexes. Actuellement, je travaille sur [projets en cours] et je suis ouvert(e) à la collaboration sur des projets passionnants.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences
+- [Compétence 1]
+- [Compétence 2]
+- [Compétence 3]
+- ...
+
+## Projets récents
+### [discord_bot][[(lien_vers_le_projet_1)](https://github.com/dimitrihamelin/Discord_Bot)]
+Description concise du projet 1.
+
+### [Nom du projet 2](lien_vers_le_projet_2)
+Description concise du projet 2.
+
+...
+
+## Contact
+- 📧 Email: votre@email.com
+- 💼 LinkedIn: [votre profil LinkedIn](lien_vers_votre_profil_linkedin)
+
+N'hésitez pas à explorer mes repositories pour découvrir mes projets et à me contacter si vous avez des questions ou si vous souhaitez discuter de collaborations potentielles. Merci de visiter mon profil ! 😊
+
