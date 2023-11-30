@@ -9,18 +9,18 @@
 
   <div style="text-align: justify;">
 
-  <p align="center">
-<img src="https://img.shields.io/badge/Java-%23FF5733" alt="Java">
-<img src="https://img.shields.io/badge/Kotlin-%23FFA233" alt="Kotlin">
-<img src="https://img.shields.io/badge/Python-%2329BF12" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-%23448AFF" alt="JavaScript">
-<img src="https://img.shields.io/badge/C++-%23FF3434" alt="C++">
-<img src="https://img.shields.io/badge/HTML-%23FF5733" alt="HTML">
-<img src="https://img.shields.io/badge/PHP-%23777BB4" alt="PHP">
-<img src="https://img.shields.io/badge/Swift-%23FF7F45" alt="Swift">
-<img src="https://img.shields.io/badge/Assembly-%238A2BE2" alt="Assembly">
-<img src="https://img.shields.io/badge/CSS-%231572B6" alt="CSS">
-
+<p align="center">
+  
+<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-%23FF5733" alt="Java"></a>
+<a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-%23FFA233" alt="Kotlin"></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-%2329BF12" alt="Python"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23448AFF" alt="JavaScript"></a>
+<a href="https://www.cplusplus.com"><img src="https://img.shields.io/badge/C++-%23FF3434" alt="C++"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-%23FF5733" alt="HTML"></a>
+<a href="https://swift.org"><img src="https://img.shields.io/badge/Swift-%23FF7F45" alt="Swift"></a>
+<a href="https://www.asc.asn.au/wp-content/uploads/2015/09/assembly.gif"><img src="https://img.shields.io/badge/Assembly-%238A2BE2" alt="Assembly"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-%231572B6" alt="CSS"></a>
+<a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-%23777BB4" alt="PHP"></a>
     
   </p>
 
