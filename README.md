@@ -58,4 +58,4 @@
 </p>
 </div>
 
-![Anurag's GitHub stats] Githubhttps://github-readme-stats.vercel.app/api?username = dimitrihamelin &theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrihamelin&hide=contribs,prs)
