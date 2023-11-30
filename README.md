@@ -25,7 +25,7 @@
     <a href="https://github.com/dimitrihamelin/Discord_Bot" target="_blank">
       <img src="https://img.shields.io/badge/discord_bot-%231877F2" alt="discord_bot">
     </a>
-    <p align="center">Création d'un bot sur Discord.</p>
+    <p align="center">Création d'une page de maintenance.</p>
   </p>
 
   <!-- Ajoutez d'autres liens vers vos projets récents -->
@@ -36,8 +36,28 @@
     <!-- Ajoutez d'autres liens vers vos projets récents ici -->
   </p>
 
-  <p align="center">Création d'une page de maintenance</p>
+  <p align="center">Création d'un bot sur Discord.</p>
 </marquee>
+
+<h2 align="center">Durée des Projets</h2>
+
+<p align="center">
+  <table>
+    <tr>
+      <th>Projet</th>
+      <th>Durée</th>
+    </tr>
+    <tr>
+      <td>discord_bot</td>
+      <td>2 mois</td>
+    </tr>
+    <tr>
+      <td>website_update</td>
+      <td>1 mois</td>
+    </tr>
+    <!-- Ajoutez d'autres projets et durées ici -->
+  </table>
+</p>
 
 <h2 align="center">Contact</h2>
 
