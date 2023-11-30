@@ -13,6 +13,7 @@
     <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-%23FFA233" alt="Kotlin"></a>
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-%2329BF12" alt="Python"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23448AFF" alt="JavaScript"></a>
+    <a href="https://www.php.net"><img src="https://img.shields.io/badge/Json-%19933134" alt="Json"></a>
     <a href="https://www.cplusplus.com"><img src="https://img.shields.io/badge/C++-%23FF3434" alt="C++"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-%23FF5733" alt="HTML"></a>
     <a href="https://swift.org"><img src="https://img.shields.io/badge/Swift-%23FF7F45" alt="Swift"></a>
