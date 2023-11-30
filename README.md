@@ -5,7 +5,7 @@
   <h2 align="center">À propos de moi</h2>
   <p style="text-align: justify;">> Mon parcours dans le monde du développement a été une aventure captivante, marquée par la volonté d'apprendre, de créer et d'innover. Actuellement, je suis immergé dans le développement d'une application passionnante, mettant à profit mes compétences techniques et ma créativité pour aboutir à un produit exceptionnel. Je suis également ouvert à la collaboration sur des projets qui repoussent les limites de l'innovation.</p>
 
-  <h2 align="center">Compétences</h2>
+  <h2 align="center">Compétences / Découvertes</h2>
 
   <div style="text-align: justify;">
 
@@ -17,11 +17,6 @@
   <img src="https://img.shields.io/badge/C++-%23E44D26" alt="C++">
   <img src="https://img.shields.io/badge/Ruby-%23E44D1" alt="Ruby">
   <img src="https://img.shields.io/badge/Swift-%23E44D1" alt="Swift">
-  </p>
-
-  <p align="center">
-
-    <!-- Ajoutez autant de badges que nécessaire -->
   </p>
 
   <h2 align="center">Projets récents sur GitHub</h2>
