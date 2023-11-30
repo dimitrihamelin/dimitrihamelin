@@ -12,7 +12,7 @@ Je suis passionné(e) par [votre domaine d'expertise], et j'aime explorer de nou
 - ...
 
 ## Projets récents
-### [discord_bot][[(lien_vers_le_projet_1)](https://github.com/dimitrihamelin/Discord_Bot)]
+### [discord_bot] https://github.com/dimitrihamelin/Discord_Bot
 Description concise du projet 1.
 
 ### [Nom du projet 2](lien_vers_le_projet_2)
