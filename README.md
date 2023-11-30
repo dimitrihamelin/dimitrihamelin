@@ -20,6 +20,24 @@
 
 <h2 align="center">Projets récents</h2>
 
+ <p align="center">
+    <a href="https://github.com/dimitrihamelin/Discord_Bot" target="_blank">
+      <img src="https://img.shields.io/badge/[discord_bot]-%231877F2" alt="discord_bot">
+    </a>
+<p align="center">Création d'une page de maintenance.</p>
+  </p>
+
+  <!-- Ajoutez d'autres liens vers vos projets récents -->
+  <p align="center">
+    <a href="https://github.com/dimitrihamelin/WebsitePage_Processing_Update" target="_blank">
+      <img src="https://img.shields.io/badge/[website_update]-%23<COULEUR>" alt="website_update">
+    </a>
+    <!-- Ajoutez d'autres liens vers vos projets récents ici -->
+  </p>
+
+  <p align="center">Création d'un bot sur discord.</p>
+
+
 <p align="center">
   <a href="https://github.com/dimitrihamelin/Discord_Bot" target="_blank">
     <img src="https://img.shields.io/badge/[discord_bot]-%231877F2" alt="discord_bot">
@@ -27,12 +45,12 @@
   <!-- Ajoutez d'autres liens vers vos projets récents -->
 </p>
 
-<p align="center">Description concise du projet 1.</p>
+<p align="center">Création d'un bot sur discord.</p>
 
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  💼 LinkedIn : <a target="_blank" href="https://fr.linkedin.com/in/dimitri-hamelin-15b854256?original_referer=https%3A%2F%2Fwww.google.com%2F">Votre Profil LinkedIn </a>
+  💼 LinkedIn : <a target="_blank" href="https://fr.linkedin.com/in/dimitri-hamelin-15b854256?original_referer=https%3A%2F%2Fwww.google.com%2F">Mon Profil LinkedIn </a>
 </p>
 
 <p align="center">N'hésitez pas à explorer mes repositories pour découvrir mes projets et à me contacter si vous avez des questions ou souhaitez discuter de collaborations potentielles. Merci de visiter mon profil ! 😊</p>
