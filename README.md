@@ -20,12 +20,13 @@
 
 <h2 align="center">Projets récents</h2>
 
- <p align="center">
+<marquee behavior="scroll" direction="left" scrollamount="10">
+  <p align="center">
     <a href="https://github.com/dimitrihamelin/Discord_Bot" target="_blank">
       <img src="https://img.shields.io/badge/discord_bot-%231877F2" alt="discord_bot">
     </a>
     <p align="center">Création d'une page de maintenance.</p>
- </p>
+  </p>
 
   <!-- Ajoutez d'autres liens vers vos projets récents -->
   <p align="center">
@@ -36,6 +37,7 @@
   </p>
 
   <p align="center">Création d'un bot sur Discord.</p>
+</marquee>
 
 <h2 align="center">Contact</h2>
 
@@ -47,7 +49,9 @@
 
 <h2 align="center">Liens</h2>
 
-<p align="center">
-  <a href="https://locarodix.com" target="_blank">locarodix.com</a> <br>
-  <a href="https://discord.gg/penncVytFW" target="_blank">Serveur Discord</a>
-</p>
+<marquee behavior="scroll" direction="right" scrollamount="8">
+  <p align="center">
+    <a href="https://locarodix.com" target="_blank">locarodix.com</a> <br>
+    <a href="https://discord.gg/penncVytFW" target="_blank">Serveur Discord</a>
+  </p>
+</marquee>
