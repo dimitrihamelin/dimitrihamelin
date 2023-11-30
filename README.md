@@ -24,18 +24,15 @@
   <table>
     <tr>
       <th>Projets</th>
-      <th>Durée</th>
-      <th>lien</th>
+      <th>langage</th>
     </tr>
     <tr>
-      <td>discord_bot</td>
-      <td>1 mois</td>
-      <td></td>
+      <td>Bot Discord</td>
+      <td>json / Java</td>
     </tr>
     <tr>
-      <td>website_update</td>
-      <td>2 jours</td>
-      <td></td>
+      <td>Site Web</td>
+      <td>Html</td>
     </tr>
     <!-- Ajoutez d'autres projets et durées ici -->
   </table>
