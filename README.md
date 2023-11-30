@@ -1,54 +1,154 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Welcome%20to%20My%20GitHub%20Profile!-%F0%9F%8E%89-blueviolet" alt="Welcome">
-</p>
+<!DOCTYPE html>
+<html lang="en">
 
-<h1 align="center">Salut, je suis Dimitri ! 🚀</h1>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dimitri's GitHub Profile</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #222;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
 
-<p align="center">Bienvenue sur mon profil GitHub, où le code prend vie et les idées deviennent réalité.</p>
+    header {
+      background-color: #333;
+      padding: 20px;
+      text-align: center;
+    }
 
-<h2 align="center">À propos de moi</h2>
-<p align="center">Je suis passionné par le développement, explorant constamment de nouvelles technologies pour résoudre des problèmes complexes. Actuellement, je me plonge dans le développement d'une application passionnante et suis ouvert à la collaboration sur des projets innovants.</p>
+    header img {
+      border-radius: 50%;
+      max-width: 150px;
+      margin-bottom: 10px;
+    }
 
-<h2 align="center">Compétences</h2>
+    h1 {
+      margin: 0;
+    }
 
-<p align="center">
-  <img src="https://img.shields.io/badge/[Compétence%201]-%2343853D" alt="[Motivé]">
-  <img src="https://img.shields.io/badge/[Compétence%202]-%232196F3" alt="[Déterminé]">
-  <img src="https://img.shields.io/badge/[Compétence%203]-%23E44D26" alt="[Ne tombe jamais]">
+    p {
+      margin-top: 5px;
+    }
 
-  <!-- Ajoutez autant de badges que nécessaire -->
-</p>
+    section {
+      max-width: 800px;
+      padding: 20px;
+      box-sizing: border-box;
+      text-align: left;
+    }
 
-<h2 align="center">Projets récents</h2>
+    h2 {
+      border-bottom: 2px solid #444;
+      padding-bottom: 5px;
+      margin-bottom: 20px;
+    }
 
- <p align="center">
-    <a href="https://github.com/dimitrihamelin/Discord_Bot" target="_blank">
-      <img src="https://img.shields.io/badge/[discord_bot]-%231877F2" alt="discord_bot">
-    </a>
-<p align="center">Création d'une page de maintenance.</p>
-  </p>
+    .skills {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 20px;
+    }
 
-  <!-- Ajoutez d'autres liens vers vos projets récents -->
-  <p align="center">
-    <a href="https://github.com/dimitrihamelin/WebsitePage_Processing_Update" target="_blank">
-      <img src="https://img.shields.io/badge/[website_update]-%23<COULEUR>" alt="website_update">
-    </a>
-    <!-- Ajoutez d'autres liens vers vos projets récents ici -->
-  </p>
+    .skill-badge {
+      background-color: #555;
+      padding: 8px 15px;
+      border-radius: 5px;
+    }
 
-  <p align="center">Création d'un bot sur discord.</p>
+    .projects {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
 
-<h2 align="center">Contact</h2>
+    .project-badge {
+      background-color: #555;
+      padding: 8px 15px;
+      border-radius: 5px;
+    }
 
-<p align="center">
-  💼 LinkedIn : <a target="_blank" href="https://fr.linkedin.com/in/dimitri-hamelin-15b854256?original_referer=https%3A%2F%2Fwww.google.com%2F">Mon Profil LinkedIn </a>
-</p>
+    .contact {
+      text-align: center;
+      margin-top: 20px;
+    }
 
-<p align="center">N'hésitez pas à explorer mes repositories pour découvrir mes projets et à me contacter si vous avez des questions ou souhaitez discuter de collaborations potentielles. Merci de visiter mon profil ! 😊</p>
+    .contact a {
+      color: #3498db;
+      text-decoration: none;
+    }
 
-<h2 align="center">Liens</h2>
+    .contact a:hover {
+      text-decoration: underline;
+    }
 
-<p align="center">
-  <a href="https://locarodix.com" target="_blank">locarodix.com</a> <br>
-  <a href="https://discord.gg/penncVytFW" target="_blank">Discord Server</a>
-</p>
+    .links {
+      display: flex;
+      justify-content: space-around;
+      margin-top: 20px;
+    }
+
+    .links a {
+      color: #3498db;
+      text-decoration: none;
+      padding: 10px;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    .links a:hover {
+      background-color: #555;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <img src="https://your-profile-image-url.jpg" alt="Dimitri's Profile Image">
+    <h1>Dimitri</h1>
+    <p>Welcome to my futuristic GitHub space where code is the language of the future!</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I am a passionate developer, constantly exploring cutting-edge technologies to solve complex problems. Currently, I am immersed in the development of an exciting application and open to collaborating on innovative projects.</p>
+
+    <h2>Skills</h2>
+    <div class="skills">
+      <div class="skill-badge">Motivated</div>
+      <div class="skill-badge">Determined</div>
+      <div class="skill-badge">Never Gives Up</div>
+      <!-- Add as many skills as needed -->
+    </div>
+
+    <h2>Recent Projects</h2>
+    <div class="projects">
+      <div class="project-badge">Discord Bot - Maintenance Page</div>
+      <p>Creating a maintenance page for a Discord bot.</p>
+      <!-- Add other recent projects with detailed descriptions -->
+    </div>
+
+    <h2>Contact</h2>
+    <div class="contact">
+      <p>💼 LinkedIn: <a href="https://fr.linkedin.com/in/dimitri-hamelin-15b854256?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank">My LinkedIn Profile</a></p>
+    </div>
+
+    <h2>Links</h2>
+    <div class="links">
+      <a href="https://locarodix.com" target="_blank">locarodix.com</a>
+      <a href="https://discord.gg/penncVytFW" target="_blank">Discord Server</a>
+    </div>
+  </section>
+
+</body>
+
+</html>
