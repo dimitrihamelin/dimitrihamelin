@@ -12,9 +12,10 @@
 <h2 align="center">Compétences</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/[Compétence%201]-%2343853D" alt="[Compétence 1]">
-  <img src="https://img.shields.io/badge/[Compétence%202]-%232196F3" alt="[Compétence 2]">
-  <img src="https://img.shields.io/badge/[Compétence%203]-%23E44D26" alt="[Compétence 3]">
+  <img src="https://img.shields.io/badge/[Compétence%201]-%2343853D" alt="[Motivé]">
+  <img src="https://img.shields.io/badge/[Compétence%202]-%232196F3" alt="[Déterminé]">
+  <img src="https://img.shields.io/badge/[Compétence%203]-%23E44D26" alt="[Ne tombe jamais]">
+
   <!-- Ajoutez autant de badges que nécessaire -->
 </p>
 
