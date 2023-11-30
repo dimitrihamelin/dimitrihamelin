@@ -20,40 +20,22 @@
 
 <h2 align="center">Projets récents</h2>
 
-<marquee behavior="scroll" direction="left" scrollamount="10">
-  <p align="center">
-    <a href="https://github.com/dimitrihamelin/Discord_Bot" target="_blank">
-      <img src="https://img.shields.io/badge/discord_bot-%231877F2" alt="discord_bot">
-    </a>
-    <p align="center">Création d'une page de maintenance.</p>
-  </p>
-
-  <!-- Ajoutez d'autres liens vers vos projets récents -->
-  <p align="center">
-    <a href="https://github.com/dimitrihamelin/WebsitePage_Processing_Update" target="_blank">
-      <img src="https://img.shields.io/badge/website_update-%23<COULEUR>" alt="website_update">
-    </a>
-    <!-- Ajoutez d'autres liens vers vos projets récents ici -->
-  </p>
-
-  <p align="center">Création d'un bot sur Discord.</p>
-</marquee>
-
-<h2 align="center">Durée des Projets</h2>
-
 <div align="center">
   <table>
     <tr>
       <th>Projet</th>
       <th>Durée</th>
+      <th>Image</th>
     </tr>
     <tr>
       <td>discord_bot</td>
       <td>2 mois</td>
+      <td><img src="URL_IMAGE_DISCORD_BOT" alt="discord_bot_image" width="100"></td>
     </tr>
     <tr>
       <td>website_update</td>
       <td>1 mois</td>
+      <td><img src="URL_IMAGE_WEBSITE_UPDATE" alt="website_update_image" width="100"></td>
     </tr>
     <!-- Ajoutez d'autres projets et durées ici -->
   </table>
