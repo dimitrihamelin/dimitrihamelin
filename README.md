@@ -18,7 +18,7 @@
   <!-- Ajoutez autant de badges que nécessaire -->
 </p>
 
-<h2 align="center">Projets récents</h2>
+<h2 align="center">Projets récents sur GitHub</h2>
 
 <div align="center">
   <table>
@@ -29,17 +29,23 @@
     </tr>
     <tr>
       <td>discord_bot</td>
-      <td>2 mois</td>
+      <td>1 mois</td>
       <td></td>
     </tr>
     <tr>
       <td>website_update</td>
-      <td>1 mois</td>
+      <td>2 jours</td>
       <td></td>
     </tr>
     <!-- Ajoutez d'autres projets et durées ici -->
   </table>
 </div>
+
+<center>
+
+<iframe src="https://discord.com/widget?id=834895609622167592&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+</center>
 
 <h2 align="center">Contact</h2>
 
