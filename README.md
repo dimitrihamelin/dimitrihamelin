@@ -10,15 +10,17 @@
   <div style="text-align: justify;">
 
   <p align="center">
-<img src="https://img.shields.io/badge/Java-%23E44D26" alt="Java">
-<img src="https://img.shields.io/badge/Kotlin-%23F18E33" alt="Kotlin">
-<img src="https://img.shields.io/badge/Python-%232B5B2F" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-%234F83CC" alt="JavaScript">
-<img src="https://img.shields.io/badge/C++-%23F34B4B" alt="C++">
-<img src="https://img.shields.io/badge/HTML-%23E34C26" alt="HTML">
-<img src="https://img.shields.io/badge/Swift-%23F88944" alt="Swift">
+<img src="https://img.shields.io/badge/Java-%23FF5733" alt="Java">
+<img src="https://img.shields.io/badge/Kotlin-%23FFA233" alt="Kotlin">
+<img src="https://img.shields.io/badge/Python-%2329BF12" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-%23448AFF" alt="JavaScript">
+<img src="https://img.shields.io/badge/C++-%23FF3434" alt="C++">
+<img src="https://img.shields.io/badge/HTML-%23FF5733" alt="HTML">
+<img src="https://img.shields.io/badge/PHP-%23777BB4" alt="PHP">
+<img src="https://img.shields.io/badge/Swift-%23FF7F45" alt="Swift">
 <img src="https://img.shields.io/badge/Assembly-%238A2BE2" alt="Assembly">
 <img src="https://img.shields.io/badge/CSS-%231572B6" alt="CSS">
+
     
   </p>
 
@@ -29,17 +31,14 @@
       <tr>
         <th>Projets</th>
         <th>Langage</th>
-        <th>Durée</th>
       </tr>
       <tr>
         <td>Bot Discord</td>
         <td>JSON / Java</td>
-        <td>1 mois</td>
       </tr>
       <tr>
         <td>Site Web</td>
         <td>HTML / CSS</td>
-        <td>1 jour</td>
       </tr>
       <!-- Ajoutez d'autres projets et durées ici -->
     </table>
