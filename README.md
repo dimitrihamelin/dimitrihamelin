@@ -14,11 +14,12 @@
 <img src="https://img.shields.io/badge/Kotlin-%23E44D1F" alt="Kotlin">
 <img src="https://img.shields.io/badge/Python-%2343853D" alt="Python">
 <img src="https://img.shields.io/badge/JavaScript-%232196F3" alt="JavaScript">
-<img src="https://img.shields.io/badge/C++-%21E11D26" alt="C++">
+<img src="https://img.shields.io/badge/C++-%23E11D26" alt="C++">
 <img src="https://img.shields.io/badge/Html-%23E14D1F" alt="Html">
-<img src="https://img.shields.io/badge/Swift-%20E44D1F" alt="Swift">
-<img src="https://img.shields.io/badge/Assembly-%21E44D1F" alt="Assembly">
+<img src="https://img.shields.io/badge/Swift-%23E44D1F" alt="Swift">
+<img src="https://img.shields.io/badge/Assembly-%23E44D1F" alt="Assembly">
 <img src="https://img.shields.io/badge/CSS-%231572B6" alt="CSS">
+    
   </p>
 
   <h2 align="center">Projets récents sur GitHub</h2>
@@ -33,12 +34,12 @@
       <tr>
         <td>Bot Discord</td>
         <td>JSON / Java</td>
-        <td>3 mois</td>
+        <td>1 mois</td>
       </tr>
       <tr>
         <td>Site Web</td>
         <td>HTML / CSS</td>
-        <td>2 mois</td>
+        <td>1 jour</td>
       </tr>
       <!-- Ajoutez d'autres projets et durées ici -->
     </table>
