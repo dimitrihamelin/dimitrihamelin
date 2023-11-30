@@ -23,19 +23,19 @@
 <div align="center">
   <table>
     <tr>
-      <th>Projet</th>
+      <th>Projets</th>
       <th>Durée</th>
-      <th>Image</th>
+      <th>lien</th>
     </tr>
     <tr>
       <td>discord_bot</td>
       <td>2 mois</td>
-      <td><img src="URL_IMAGE_DISCORD_BOT" alt="discord_bot_image" width="100"></td>
+      <td></td>
     </tr>
     <tr>
       <td>website_update</td>
       <td>1 mois</td>
-      <td><img src="URL_IMAGE_WEBSITE_UPDATE" alt="website_update_image" width="100"></td>
+      <td></td>
     </tr>
     <!-- Ajoutez d'autres projets et durées ici -->
   </table>
