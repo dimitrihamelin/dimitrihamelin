@@ -9,7 +9,7 @@
 
   <div style="text-align: justify;">
 
-<p align="center">
+<a align="center">
   
 <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-%23FF5733" alt="Java"></a>
 <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-%23FFA233" alt="Kotlin"></a>
