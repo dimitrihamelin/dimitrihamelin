@@ -11,13 +11,13 @@
 
   <p align="center">
 <img src="https://img.shields.io/badge/Java-%23E44D26" alt="Java">
-<img src="https://img.shields.io/badge/Kotlin-%23E44D1F" alt="Kotlin">
-<img src="https://img.shields.io/badge/Python-%2343853D" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-%232196F3" alt="JavaScript">
-<img src="https://img.shields.io/badge/C++-%23E11D26" alt="C++">
-<img src="https://img.shields.io/badge/Html-%23E14D1F" alt="Html">
-<img src="https://img.shields.io/badge/Swift-%23E44D1F" alt="Swift">
-<img src="https://img.shields.io/badge/Assembly-%23E44D1F" alt="Assembly">
+<img src="https://img.shields.io/badge/Kotlin-%23F18E33" alt="Kotlin">
+<img src="https://img.shields.io/badge/Python-%232B5B2F" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-%234F83CC" alt="JavaScript">
+<img src="https://img.shields.io/badge/C++-%23F34B4B" alt="C++">
+<img src="https://img.shields.io/badge/HTML-%23E34C26" alt="HTML">
+<img src="https://img.shields.io/badge/Swift-%23F88944" alt="Swift">
+<img src="https://img.shields.io/badge/Assembly-%238A2BE2" alt="Assembly">
 <img src="https://img.shields.io/badge/CSS-%231572B6" alt="CSS">
     
   </p>
