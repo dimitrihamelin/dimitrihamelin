@@ -32,8 +32,7 @@
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  📧 Email : votre@email.com <br>
-  💼 LinkedIn : <a href="lien_vers_votre_profil_linkedin">Votre Profil LinkedIn</a>
+  💼 LinkedIn : <a href="https://fr.linkedin.com/in/dimitri-hamelin)">Votre Profil LinkedIn</a>
 </p>
 
 <p align="center">N'hésitez pas à explorer mes repositories pour découvrir mes projets et à me contacter si vous avez des questions ou souhaitez discuter de collaborations potentielles. Merci de visiter mon profil ! 😊</p>
