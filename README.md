@@ -1,11 +1,10 @@
 <h1 align="center"><strong>Salut, je suis Dimitri et développeur actif sur Discord ! 🚀</strong></h1>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrihamelin&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 <br>
 <p align="center"><strong>Bienvenue</strong> sur mon profil GitHub, un espace où la <strong>magie du code</strong> prend vie et où les idées prennent forme. Je suis un passionné de développement, constamment avide de découvrir de nouvelles technologies pour résoudre des problèmes complexes et apporter des solutions novatrices. 🌟</p>
 
 <h2 align="center"><strong>À propos de moi</strong></h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrihamelin&hide=contribs,prs)
 
 <p style="text-align: justify;">Mon parcours dans le monde du développement a été une aventure captivante, marquée par la volonté d'<strong>apprendre</strong>, de <strong>créer</strong> et d'<strong>innover</strong>. Actuellement, je suis immergé dans le développement d'une application passionnante, mettant à profit mes <strong>compétences techniques</strong> et ma <strong>créativité</strong> pour aboutir à un produit exceptionnel. Je suis également ouvert à la <strong>collaboration</strong> sur des projets qui repoussent les limites de l'<strong>innovation</strong>. 🚀</p>
 
