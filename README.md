@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Welcome%20to%20My%20GitHub%20Profile!-%F0%9F%8E%89-blueviolet" alt="Welcome">
 </p>
 
-<h1 align="center">Salut, je suis [Votre Nom] ! 🚀</h1>
+<h1 align="center">Salut, je suis Dimitri ! 🚀</h1>
 
 <p align="center">Bienvenue sur mon profil GitHub, où le code prend vie et les idées deviennent réalité.</p>
 
