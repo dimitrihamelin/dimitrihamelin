@@ -14,9 +14,10 @@
   <h2 align="center">Compétences</h2>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Motivé-%2343853D" alt="Motivé">
-    <img src="https://img.shields.io/badge/Déterminé-%232196F3" alt="Déterminé">
-    <img src="https://img.shields.io/badge/Ne%20tombe%20jamais-%23E44D26" alt="Ne tombe jamais">
+    <img src="https://img.shields.io/badge/Motivé-%2343853D" alt="Html">
+    <img src="https://img.shields.io/badge/Déterminé-%232196F3" alt="Css">
+    <img src="https://img.shields.io/badge/Ne%20tombe%20jamais-%23E44D26" alt="Java">
+    <img src="https://img.shields.io/badge/Ne%20tombe%20jamais-%23E44D1" alt="Kotlin">
     <!-- Ajoutez autant de badges que nécessaire -->
   </p>
 
