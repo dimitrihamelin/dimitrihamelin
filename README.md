@@ -39,10 +39,9 @@
   <p align="center">Création d'un bot sur Discord.</p>
 </marquee>
 
-<center>
 <h2 align="center">Durée des Projets</h2>
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <th>Projet</th>
@@ -58,8 +57,7 @@
     </tr>
     <!-- Ajoutez d'autres projets et durées ici -->
   </table>
-</p>
-</center>
+</div>
 
 <h2 align="center">Contact</h2>
 
