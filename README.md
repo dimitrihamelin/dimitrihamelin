@@ -1,9 +1,7 @@
-### Hi there 👋
-
 # Bienvenue sur mon profil GitHub ! 🎉
 
 ## À propos de moi
-Je suis passionné(e) par [votre domaine d'expertise], et j'aime explorer de nouvelles technologies et résoudre des problèmes complexes. Actuellement, je travaille sur [projets en cours] et je suis ouvert(e) à la collaboration sur des projets passionnants.
+Je suis passionné(e) par le développement, et j'aime explorer de nouvelles technologies et résoudre des problèmes complexes. Actuellement, je travaille actuellement sur le développement d'une application et je suis ouvert(e) à la collaboration sur des projets passionnants.
 
 ## Compétences
 - [Compétence 1]
