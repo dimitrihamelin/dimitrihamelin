@@ -15,8 +15,9 @@
   <img src="https://img.shields.io/badge/Python-%2343853D" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-%232196F3" alt="JavaScript">
   <img src="https://img.shields.io/badge/C++-%23E44D26" alt="C++">
-  <img src="https://img.shields.io/badge/Ruby-%23E44D1" alt="Ruby">
+  <img src="https://img.shields.io/badge/Html-%23E44D1" alt="Html">
   <img src="https://img.shields.io/badge/Swift-%23E44D1" alt="Swift">
+  <img src="https://img.shields.io/badge/Swift-%21E44D1" alt="Assembly">
   </p>
 
   <h2 align="center">Projets récents sur GitHub</h2>
