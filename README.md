@@ -15,7 +15,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23448AFF" alt="JavaScript"></a>
     <a href="https://www.json.org/json-en.html"><img src="https://img.shields.io/badge/Json-%19933134" alt="Json"></a>
     <a href="https://www.cplusplus.com"><img src="https://img.shields.io/badge/C++-%23FF3434" alt="C++"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-%23FF5733" alt="HTML (4 - 5)"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML (4 - 5)-%23FF5733" alt="HTML (4 - 5)"></a>
     <a href="https://swift.org"><img src="https://img.shields.io/badge/Swift-%23FF7F45" alt="Swift"></a>
     <a href="https://www.asc.asn.au/wp-content/uploads/2015/09/assembly.gif"><img src="https://img.shields.io/badge/Assembly-%238A2BE2" alt="Assembly"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-%231572B6" alt="CSS"></a>
