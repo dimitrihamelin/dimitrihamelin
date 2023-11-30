@@ -1,4 +1,13 @@
-<div style="text-align: justify;">
+  <h1 align="center">Salut, je suis Dimitri ! 🚀</h1>
+
+  <p align="center">Bienvenue sur mon profil GitHub, un espace où la magie du code prend vie et où les idées prennent forme. Je suis un passionné de développement, constamment avide de découvrir de nouvelles technologies pour résoudre des problèmes complexes et apporter des solutions novatrices.</p>
+
+  <h2 align="center">À propos de moi</h2>
+  <p style="text-align: justify;">> Mon parcours dans le monde du développement a été une aventure captivante, marquée par la volonté d'apprendre, de créer et d'innover. Actuellement, je suis immergé dans le développement d'une application passionnante, mettant à profit mes compétences techniques et ma créativité pour aboutir à un produit exceptionnel. Je suis également ouvert à la collaboration sur des projets qui repoussent les limites de l'innovation.</p>
+
+  <h2 align="center">Compétences</h2>
+
+  <div style="text-align: justify;">
 
   <p align="center">
   <img src="https://img.shields.io/badge/Java-%23E44D26" alt="Java">
@@ -9,15 +18,6 @@
   <img src="https://img.shields.io/badge/Ruby-%23E44D1" alt="Ruby">
   <img src="https://img.shields.io/badge/Swift-%23E44D1" alt="Swift">
   </p>
-
-  <h1 align="center">Salut, je suis Dimitri ! 🚀</h1>
-
-  <p align="center">Bienvenue sur mon profil GitHub, un espace où la magie du code prend vie et où les idées prennent forme. Je suis un passionné de développement, constamment avide de découvrir de nouvelles technologies pour résoudre des problèmes complexes et apporter des solutions novatrices.</p>
-
-  <h2 align="center">À propos de moi</h2>
-  <p style="text-align: justify;">> Mon parcours dans le monde du développement a été une aventure captivante, marquée par la volonté d'apprendre, de créer et d'innover. Actuellement, je suis immergé dans le développement d'une application passionnante, mettant à profit mes compétences techniques et ma créativité pour aboutir à un produit exceptionnel. Je suis également ouvert à la collaboration sur des projets qui repoussent les limites de l'innovation.</p>
-
-  <h2 align="center">Compétences</h2>
 
   <p align="center">
 
