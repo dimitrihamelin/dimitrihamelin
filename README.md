@@ -9,7 +9,7 @@
   <p align="center">Bienvenue sur mon profil GitHub, un espace où la magie du code prend vie et où les idées prennent forme. Je suis un passionné de développement, constamment avide de découvrir de nouvelles technologies pour résoudre des problèmes complexes et apporter des solutions novatrices.</p>
 
   <h2 align="center">À propos de moi</h2>
-  <p style="text-align: justify;">Mon parcours dans le monde du développement a été une aventure captivante, marquée par la volonté d'apprendre, de créer et d'innover. Actuellement, je suis immergé dans le développement d'une application passionnante, mettant à profit mes compétences techniques et ma créativité pour aboutir à un produit exceptionnel. Je suis également ouvert à la collaboration sur des projets qui repoussent les limites de l'innovation.</p>
+  <p style="text-align: justify;">> Mon parcours dans le monde du développement a été une aventure captivante, marquée par la volonté d'apprendre, de créer et d'innover. Actuellement, je suis immergé dans le développement d'une application passionnante, mettant à profit mes compétences techniques et ma créativité pour aboutir à un produit exceptionnel. Je suis également ouvert à la collaboration sur des projets qui repoussent les limites de l'innovation.</p>
 
   <h2 align="center">Compétences</h2>
 
@@ -49,7 +49,7 @@
     💼 LinkedIn : <a target="_blank" href="https://fr.linkedin.com/in/dimitri-hamelin-15b854256?original_referer=https%3A%2F%2Fwww.google.com%2F">Mon Profil LinkedIn</a>
   </p>
 
-  <p align="center">N'hésitez pas à explorer mes repositories pour plonger dans l'univers de mes projets. Si vous avez des questions, des suggestions ou si vous êtes intéressé par une collaboration, je serais ravi d'échanger avec vous. Merci de visiter mon profil et de faire partie de cette aventure ! 😊</p>
+  <p style="text-align: justify;"> > N'hésitez pas à explorer mes repositories pour plonger dans l'univers de mes projets. Si vous avez des questions, des suggestions ou si vous êtes intéressé par une collaboration, je serais ravi d'échanger avec vous. Merci de visiter mon profil et de faire partie de cette aventure ! 😊</p>
 
   <h2 align="center">Liens</h2>
 
