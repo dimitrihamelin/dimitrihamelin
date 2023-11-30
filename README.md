@@ -4,7 +4,7 @@
 
 <h2 align="center"><strong>À propos de moi</strong></h2>
 
-<p style="text-align: justify;">🔰 Mon parcours dans le monde du développement a été une aventure captivante, marquée par la volonté d'<strong>apprendre</strong>, de <strong>créer</strong> et d'<strong>innover</strong>. Actuellement, je suis immergé dans le développement d'une application passionnante, mettant à profit mes <strong>compétences techniques</strong> et ma <strong>créativité</strong> pour aboutir à un produit exceptionnel. Je suis également ouvert à la <strong>collaboration</strong> sur des projets qui repoussent les limites de l'<strong>innovation</strong>. 🚀</p>
+<p style="text-align: justify;">🔰 Mon parcours dans le monde du développement a été une aventure captivante, marquée par la volonté d'<strong>apprendre</strong>, de <strong>créer</strong> et d'<strong>innover</strong>. Actuellement, je suis immergé dans le développement d'une application passionnante, mettant à profit mes nombreuses <strong>compétences techniques</strong> et ma <strong>créativité</strong> pour aboutir à un produit exceptionnel. Je suis également ouvert à la <strong>collaboration</strong> sur des projets qui repoussent les limites de l'<strong>innovation</strong>. 🚀</p>
 
 <h2 align="center"><strong>Compétences / Découvertes</strong></h2>
 
