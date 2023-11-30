@@ -21,7 +21,7 @@
 <h2 align="center">Projets récents</h2>
 
 <p align="center">
-  <a href="https://github.com/dimitrihamelin/Discord_Bot">
+  <a href="https://github.com/dimitrihamelin/Discord_Bot" target="_blank">
     <img src="https://img.shields.io/badge/[discord_bot]-%231877F2" alt="discord_bot">
   </a>
   <!-- Ajoutez d'autres liens vers vos projets récents -->
@@ -40,6 +40,6 @@
 <h2 align="center">Liens</h2>
 
 <p align="center">
-  <a href="https://locarodix.com">locarodix.com</a> <br>
-  <a href="https://discord.gg/penncVytFW">Discord Server</a>
+  <a href="https://locarodix.com" target="_blank">locarodix.com</a> <br>
+  <a href="https://discord.gg/penncVytFW" target="_blank">Discord Server</a>
 </p>
