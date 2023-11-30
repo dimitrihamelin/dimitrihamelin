@@ -1,7 +1,13 @@
 <div style="text-align: justify;">
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Bienvenue%20sur%20mon%20profil%20GitHub!-%F0%9F%8E%89-blueviolet" alt="Bienvenue">
+  <img src="https://img.shields.io/badge/Java-%23E44D26" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-%23E44D1" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Python-%2343853D" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-%232196F3" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C++-%23E44D26" alt="C++">
+  <img src="https://img.shields.io/badge/Ruby-%23E44D1" alt="Ruby">
+  <img src="https://img.shields.io/badge/Swift-%23E44D1" alt="Swift">
   </p>
 
   <h1 align="center">Salut, je suis Dimitri ! 🚀</h1>
@@ -14,10 +20,7 @@
   <h2 align="center">Compétences</h2>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Motivé-%2343853D" alt="Html">
-    <img src="https://img.shields.io/badge/Déterminé-%232196F3" alt="Css">
-    <img src="https://img.shields.io/badge/Ne%20tombe%20jamais-%23E44D26" alt="Java">
-    <img src="https://img.shields.io/badge/Ne%20tombe%20jamais-%23E44D1" alt="Kotlin">
+
     <!-- Ajoutez autant de badges que nécessaire -->
   </p>
 
