@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Salut, je suis Dimitri et développeur actif sur Discord ! 🚀</strong></h1>
+<h1 align="center"><strong>Salut, je suis Dimitri et j'ai 18 ans - développeur actif sur Discord ! 🚀</strong></h1>
 <br>
 <p align="center"><strong>Bienvenue</strong> sur mon profil GitHub, un espace où la <strong>magie du code</strong> prend vie et où les idées prennent forme. Je suis un passionné de développement, constamment avide de découvrir de nouvelles technologies pour résoudre des problèmes complexes et apporter des solutions novatrices. 🌟</p>
 
