@@ -61,10 +61,8 @@
 <h2 align="center"><strong>Mes statistiques</strong></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimitrihamelin&hide=contribs,prs&show_icons=true&theme=radical" alt="Dimitri Hamelin GitHub Statistiques">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimitrihamelin&hide=contribs,prs&custom_title=GitHub%20%21Dimitri&show_icons=true&theme=radical" alt="Dimitri Hamelin GitHub Statistiques avec Joyeux Anniversaire">
 </p>
-<p align="center">
-  Joyeux Anniversaire!
-</p>
+
 
 
