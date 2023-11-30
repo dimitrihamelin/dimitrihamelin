@@ -57,3 +57,10 @@
     <a href="https://discord.gg/penncVytFW" target="_blank"><strong>Serveur Discord</strong></a> 🎉
 </p>
 </div>
+
+<h2 align="center"><strong>Mes statistiques</strong></h2>
+
+<center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitrihamelin&hide=contribs,prs)
+</center>
+
