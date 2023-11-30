@@ -1,4 +1,4 @@
-<h1>Salut, je suis Dimitri ! 🚀</h1>
+<h1  align="center">Salut, je suis Dimitri ! 🚀</h1>
 
 <p align="center">Bienvenue sur mon profil GitHub, un espace où la magie du code prend vie et où les idées prennent forme. Je suis un passionné de développement, constamment avide de découvrir de nouvelles technologies pour résoudre des problèmes complexes et apporter des solutions novatrices. 🌟</p>
 
@@ -8,7 +8,7 @@
 
 <h2 align="center">Compétences / Découvertes</h2>
 
-<div style="text-align: center;">
+<div align="center"">
     <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-%23FF5733" alt="Java"></a>
     <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-%23FFA233" alt="Kotlin"></a>
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-%2329BF12" alt="Python"></a>
