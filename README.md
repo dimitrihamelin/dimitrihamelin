@@ -1,12 +1,12 @@
-<h1 align="center"><strong>Salut, je suis Dimitri, 18 ans - développeur actif sur Discord ! 🚀</strong></h1>
+<h1 align="center"><strong>Greetings, I am Dimitri, 18 years old - an active Discord developer ! 🚀</strong></h1>
 <br>
-<p align="center"><strong>Bienvenue</strong> sur mon profil GitHub, un espace où la <strong>magie du code</strong> prend vie et où les idées prennent forme. Je suis un passionné de développement, constamment avide de découvrir de nouvelles technologies pour résoudre des problèmes complexes et apporter des solutions novatrices. 🌟</p>
+<p align="center"><strong>Welcome</strong> to my GitHub profile, a space where the <strong>magic of code</strong> comes to life, and ideas take shape. I am a development enthusiast, always eager to explore new technologies to solve complex problems and provide innovative solutions. 🌟</p>
 
-<h2 align="center"><strong>À propos de moi</strong></h2>
+<h2 align="center"><strong>About Me</strong></h2>
 
-<p style="text-align: justify;">🔰Mon parcours dans le monde du développement a été une aventure captivante, marquée par la volonté d'<strong>apprendre</strong>, de <strong>créer</strong> et d'<strong>innover</strong>. Actuellement, je suis immergé dans le développement d'une application passionnante, mettant à profit mes nombreuses <strong>compétences techniques</strong> et ma <strong>créativité</strong> pour aboutir à un produit exceptionnel. Je suis également ouvert à la <strong>collaboration</strong> sur des projets qui repoussent les limites de l'<strong>innovation</strong>. 🚀</p>
+<p style="text-align: justify;">🔰My journey in the development world has been a captivating adventure, marked by the desire to <strong>learn</strong>, <strong>create</strong>, and <strong>innovate</strong>. Currently immersed in the development of an exciting application, leveraging my numerous <strong>technical skills</strong> and <strong>creativity</strong> to deliver an exceptional product. I am also open to <strong>collaboration</strong> on projects pushing the boundaries of <strong>innovation</strong>. 🚀</p>
 
-<h2 align="center"><strong>Compétences / Découvertes</strong></h2>
+<h2 align="center"><strong>Skills / Discoveries</strong></h2>
 
 <div align="center"">
     <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-%23FF5733" alt="Java"></a>
@@ -22,47 +22,46 @@
     <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-%23777BB4" alt="PHP"></a>
 </div>
 
-<h2 align="center"><strong>Projets récents sur GitHub</strong></h2>
+<h2 align="center"><strong>Recent GitHub Projects</strong></h2>
 
 <div align="center">
     <table>
         <tr>
-            <th><strong>Projets</strong></th>
-            <th><strong>Langage</strong></th>
+            <th><strong>Projects</strong></th>
+            <th><strong>Language</strong></th>
         </tr>
         <tr>
-            <td><strong>Bot Discord</strong></td>
+            <td><strong>Discord Bot</strong></td>
             <td><strong>JSON / Java</strong></td>
         </tr>
         <tr>
-            <td><strong>Site Web</strong></td>
+            <td><strong>Website</strong></td>
             <td><strong>HTML / CSS</strong></td>
         </tr>
-        <!-- Ajoutez d'autres projets et durées ici -->
+        <!-- Add more projects and durations here -->
     </table>
 </div>
 
 <h2 align="center"><strong>Contact</strong></h2>
 
 <p align="center">
-    💼 LinkedIn : <a target="_blank" href="https://fr.linkedin.com/in/dimitri-hamelin-15b854256?original_referer=https%3A%2F%2Fwww.google.com%2F"><strong>Mon Profil LinkedIn</strong></a> 📧
+    💼 LinkedIn: <a target="_blank" href="https://fr.linkedin.com/in/dimitri-hamelin-15b854256?original_referer=https%3A%2F%2Fwww.google.com%2F"><strong>My LinkedIn Profile</strong></a> 📧
 </p>
 
-<p style="text-align: justify;">🔰N'hésitez pas à explorer mes repositories pour plonger dans l'univers de mes projets. Si vous avez des <strong>questions</strong>, des <strong>suggestions</strong> ou si vous êtes intéressé par une <strong>collaboration</strong>, je serais ravi d'échanger avec vous. Merci de visiter mon profil et de faire partie de cette <strong>aventure</strong> ! 😊</p>
+<p style="text-align: justify;">🔰Feel free to explore my repositories to dive into the world of my projects. If you have any <strong>questions</strong>, <strong>suggestions</strong>, or if you're interested in <strong>collaboration</strong>, I would be delighted to engage with you. Thank you for visiting my profile and being part of this <strong>adventure</strong>! 😊</p>
 
-<h2 align="center"><strong>Liens</strong></h2>
+<h2 align="center"><strong>Links</strong></h2>
 
 <p align="center">
     <a href="https://locarodix.com" target="_blank"><strong>locarodix.com</strong></a> 🌐 <br>
-    <a href="https://discord.gg/penncVytFW" target="_blank"><strong>Serveur Discord</strong></a> 🎉
+    <a href="https://discord.gg/penncVytFW" target="_blank"><strong>Discord Server</strong></a> 🎉
 </p>
 </div>
 
-<h2 align="center"><strong>Mes statistiques</strong></h2>
+<h2 align="center"><strong>My Statistics</strong></h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimitrihamelin&hide=contribs,prs&custom_title=GitHub%20Dimitri&show_icons=true&theme=radical" alt="Statistiques GitHub de Dimitri Hamelin avec Joyeux Anniversaire">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimitrihamelin&hide=contribs,prs&custom_title=GitHub%20Dimitri&show_icons=true&theme=radical" alt="Dimitri Hamelin's GitHub Stats with Happy Anniversary">
 </p>
-
 
 
