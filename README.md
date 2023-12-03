@@ -27,21 +27,25 @@
 <div align="center">
     <table>
         <tr>
+            <th><strong>Number</strong></th>
             <th><strong>Projects</strong></th>
             <th><strong>Language</strong></th>
             <th><strong>Status</strong></th>
         </tr>
         <tr>
+            <th><strong>1</strong></th>
             <td><strong>Discord Bot</strong></td>
             <td><strong>JSON / Java / Json</strong></td>
             <td><strong>Finish</strong></td>
         </tr>
         <tr>
+            <th><strong>2</strong></th>
             <td><strong>Website</strong></td>
             <td><strong>HTML / CSS</strong></td>
             <td><strong>Finish</strong></td>
         </tr>
         <tr>
+            <th><strong>3</strong></th>
             <td><strong>Plugin SkyBlock</strong></td>
             <td><strong>Java / Phthon / Json</strong></td>
             <td><strong>In process</strong></td>
