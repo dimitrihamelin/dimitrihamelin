@@ -29,14 +29,22 @@
         <tr>
             <th><strong>Projects</strong></th>
             <th><strong>Language</strong></th>
+            <th><strong>Status</strong></th>
         </tr>
         <tr>
             <td><strong>Discord Bot</strong></td>
-            <td><strong>JSON / Java</strong></td>
+            <td><strong>JSON / Java / Json</strong></td>
+            <td><strong>Finish</strong></td>
         </tr>
         <tr>
             <td><strong>Website</strong></td>
             <td><strong>HTML / CSS</strong></td>
+            <td><strong>Finish</strong></td>
+        </tr>
+        <tr>
+            <td><strong>Plugin SkyBlock</strong></td>
+            <td><strong>Java / Phthon / Json</strong></td>
+            <td><strong>In process</strong></td>
         </tr>
         <!-- Add more projects and durations here -->
     </table>
