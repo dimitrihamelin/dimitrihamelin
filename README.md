@@ -47,7 +47,7 @@
         <tr>
             <th><strong>3</strong></th>
             <td><strong>Plugin SkyBlock</strong></td>
-            <td><strong>Java / Phthon / Json</strong></td>
+            <td><strong>Java / Python / Json</strong></td>
             <td><strong>In process</strong></td>
         </tr>
         <!-- Add more projects and durations here -->
