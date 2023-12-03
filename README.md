@@ -27,7 +27,7 @@
 <div align="center">
     <table>
         <tr>
-            <th><strong>Number</strong></th>
+            <th><strong>ID</strong></th>
             <th><strong>Projects</strong></th>
             <th><strong>Language</strong></th>
             <th><strong>Status</strong></th>
