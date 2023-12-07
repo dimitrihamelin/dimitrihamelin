@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Greetings, I am Dimitri, 18 years old - an active Discord developer ! 🚀</strong></h1>
 <br>
-<p align="center"><strong>Welcome</strong> to my GitHub profile, a space where the <strong>magic of code</strong> comes to life, and ideas take shape. I am a development enthusiast, always eager to explore new technologies to solve complex problems and provide innovative solutions. 🌟</p>
+<p align="center"><strong>Welcome</strong> to my GitHub profile, a space where the <strong>magic of code</strong> comes to life, and ideas take shape. I am a development enthusiast, always eager to explore new technologies to solve complex problems and provide innovative solutions. 🌟 </p>
 
 <h2 align="center"><strong>About Me</strong></h2>
 
