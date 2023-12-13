@@ -6,7 +6,7 @@
 
 <p style="text-align: justify;">🔰My journey in the development world has been a captivating adventure, marked by the desire to <strong>learn</strong>, <strong>create</strong>, and <strong>innovate</strong>. Currently immersed in the development of an exciting application, leveraging my numerous <strong>technical skills</strong> and <strong>creativity</strong> to deliver an exceptional product. I am also open to <strong>collaboration</strong> on projects pushing the boundaries of <strong>innovation</strong>. 🚀</p>
 
-<h2 align="center"><strong>Skills / Discoveries</strong></h2>
+<h2 align="center"><strong>Skills / Discoveries</strong> </h2>
 
 <div align="center"">
     <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-%23FF5733" alt="Java"></a>
