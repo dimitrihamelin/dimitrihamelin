@@ -50,6 +50,12 @@
             <td><strong>Java / Python / Json</strong></td>
             <td><strong>In process</strong></td>
         </tr>
+        <tr>
+            <th><strong>4</strong></th>
+            <td><strong>App IOS 17</strong></td>
+            <td><strong>Swift / CoreData / PHP</strong></td>
+            <td><strong>Pre-alpha</strong></td>
+        </tr>
         <!-- Add more projects and durations here -->
     </table>
 </div>
