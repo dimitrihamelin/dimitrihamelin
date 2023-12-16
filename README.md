@@ -72,11 +72,6 @@
 
 <h2 align="center"><strong>Links Media</strong></h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dimitrihamelin&hide=contribs,prs&custom_title=GitHub%20Dimitri&show_icons=true&theme=radical" alt="Dimitri Hamelin's GitHub Stats with Happy Anniversary"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrihamelin&layout=compact&langs_count=10&theme=radical" alt="Dimitri Hamelin's Top Languages">
-</p>
-</div>
 
 <h2 align="center"><strong>My Statistics</strong></h2>
 
