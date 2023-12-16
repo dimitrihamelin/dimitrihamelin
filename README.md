@@ -70,8 +70,6 @@
 
 <p style="text-align: justify;">🔰Feel free to explore my repositories to dive into the world of my projects. If you have any <strong>questions</strong>, <strong>suggestions</strong>, or if you're interested in <strong>collaboration</strong>, I would be delighted to engage with you. Thank you for visiting my profile and being part of this <strong>adventure</strong>! 😊</p>
 
-<h2 align="center"><strong>Links Media</strong></h2>
-
 
 <h2 align="center"><strong>My Statistics</strong></h2>
 
