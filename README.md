@@ -20,7 +20,8 @@
     <a href="https://www.asc.asn.au/wp-content/uploads/2015/09/assembly.gif"><img src="https://img.shields.io/badge/Assembly-%238A2BE2" alt="Assembly"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-%231572B6" alt="CSS"></a>
     <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-%23777BB4" alt="PHP"></a>
-    <a href="https://developer.apple.com/documentation/coredata"><img src="https://img.shields.io/badge/CoreData-%23FFFF99" alt="CoreData"></a>
+    <a href="https://developer.apple.com/documentation/coredata"><img src="https://img.shields.io/badge/CoreData-%23FFFF99?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiI+PGcgZmlsbD0iIzlGMkUyMyIgZmlsbC1ydWxlPSJub256ZXJvIj48cGF0aCBkPSJNOS4zNTcsMTAuNzAxTDEwLjcxLDEuMjk1bDguMDAxLjAwMSA0Ljg4OSwzLjEzNSA5LjIyOSw5LjIyOUw5LjM1Nyw5LjIyOSIgc3R5bGU9ImZpbGw6cmVkOyIvPjwvZz48L3N2Zz4=" alt="CoreData" style="background-color:#FFFF99; color:#FFFFFF;"></a>
+
 </div>
 
 <h2 align="center"><strong>Recent GitHub Projects</strong></h2>
