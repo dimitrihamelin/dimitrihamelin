@@ -84,6 +84,6 @@
 
 <h2 align="center"><strong>Images : Projects</strong></h2>
 
-> https://ibb.co/kyXNcrs
+> https://ibb.co/kyXNcrs (bot discord)
 
 
