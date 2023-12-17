@@ -91,3 +91,4 @@ Anniversary">
 
 <h2 align="center"><strong>Last issues</strong></h2>
 
+https://github.com/dimitrihamelin/Maintenance-Page-Processing-Update/issues/1
