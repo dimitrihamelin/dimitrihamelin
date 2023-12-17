@@ -89,3 +89,5 @@ Anniversary">
 
 [Discussions](https://github.com/orgs/community/discussions/79307)
 
+<h2 align="center"><strong>Last issues</strong></h2>
+
