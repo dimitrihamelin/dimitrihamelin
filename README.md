@@ -3,10 +3,6 @@
 
 <h2 align="center">https://apps.apple.com/fr/app/star-me/id6476231299</h1>
 
-
-<h2 align="center">My longing is to grow at MIT, amidst the echoes of brilliant minds I fear I may never join...</h2>
-
-
 <p align="center"><strong>Welcome</strong> to my GitHub profile, a space where the <strong>magic of code</strong> comes to life, and ideas take shape. I am a development enthusiast, always eager to explore new technologies to solve complex problems and provide innovative solutions. 🌟 </p>
 
 <h2 align="center"><strong>About Me</strong> </h2>
