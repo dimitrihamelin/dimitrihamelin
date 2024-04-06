@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Greetings, I am Dimitri, 18 - 19 years old - an active Discord developer !🚀</strong></h1>
 <br>
 
-<h1>https://apps.apple.com/fr/app/star-me/id6476231299</h1>
+<h2 align="center">https://apps.apple.com/fr/app/star-me/id6476231299</h1>
 
 
 <h2 align="center">My longing is to grow at MIT, amidst the echoes of brilliant minds I fear I may never join...</h2>
