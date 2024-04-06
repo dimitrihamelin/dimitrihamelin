@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Greetings, I am Dimitri, 18 - 19 years old - an active Discord developer !🚀</strong></h1>
 <br>
 
-My longing is to grow at MIT, amidst the echoes of brilliant minds I fear I may never join...
+<h2 align="center">My longing is to grow at MIT, amidst the echoes of brilliant minds I fear I may never join...</h2>
 
 
 <p align="center"><strong>Welcome</strong> to my GitHub profile, a space where the <strong>magic of code</strong> comes to life, and ideas take shape. I am a development enthusiast, always eager to explore new technologies to solve complex problems and provide innovative solutions. 🌟 </p>
