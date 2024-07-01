@@ -57,7 +57,7 @@
         </tr>
         <tr>
             <th><strong>4</strong></th>
-            <td><strong>App IOS 17</strong></td>
+            <td><strong>App IOS 15 to 17</strong></td>
             <td><strong>Swift / CoreData / PHP</strong></td>
             <td><strong>Finish (StarMe available on Apple Store)</strong></td>
         </tr>
