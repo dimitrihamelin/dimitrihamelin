@@ -88,6 +88,9 @@ Anniversary">
 
 > https://ibb.co/kyXNcrs (bot discord)
 
+unknown display mode: Automatic
+
+
 <h2 align="center"><strong>Discussions : GitHub Help</strong></h2>
 
 [Discussions](https://github.com/orgs/community/discussions/79307)
