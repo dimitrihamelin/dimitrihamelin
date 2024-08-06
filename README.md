@@ -23,7 +23,7 @@
     <a href="https://www.asc.asn.au/wp-content/uploads/2015/09/assembly.gif"><img src="https://img.shields.io/badge/Assembly-%238A2BE2" alt="Assembly"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-%231572B6" alt="CSS"></a>
     <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-%23777BB4" alt="PHP"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23E6E6FA" alt="JavaScript"></a>
+    <a href="https://www.ruby-lang.org/en/documentation/"><img src="https://img.shields.io/badge/Ruby-%23CC342D" alt="Ruby"></a>
     <a href="https://developer.apple.com/documentation/coredata"><img src="https://img.shields.io/badge/CoreData-%238B4513" alt="CoreData"></a>
 
 </div>
