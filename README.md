@@ -69,6 +69,12 @@
             <td><strong>YML</strong></td>
             <td><strong>Finish</strong></td>
         </tr>
+        <tr>
+            <th><strong>6</strong></th>
+            <td><strong>Locarodix WebSite</strong></td>
+            <td><strong>HTML / Java / CSS</strong></td>
+            <td><strong>Finish</strong></td>
+        </tr>
         <!-- Add more projects and durations here -->
     </table>
 </div>
