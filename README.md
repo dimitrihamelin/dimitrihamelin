@@ -62,6 +62,13 @@
             <td><strong>Swift / CoreData / PHP</strong></td>
             <td><strong>Finish (StarMe available on Apple Store)</strong></td>
         </tr>
+        </tr>
+        <tr>
+            <th><strong>5</strong></th>
+            <td><strong>UltraSkyWars Languages</strong></td>
+            <td><strong>YML</strong></td>
+            <td><strong>Finish</strong></td>
+        </tr>
         <!-- Add more projects and durations here -->
     </table>
 </div>
