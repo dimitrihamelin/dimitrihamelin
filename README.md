@@ -35,7 +35,7 @@
         <tr>
             <th><strong>ID</strong></th>
             <th><strong>Projects</strong></th>
-            <th><strong>Language</strong></th>
+            <th><strong>Object</strong></th>
             <th><strong>Status</strong></th>
         </tr>
         <tr>
