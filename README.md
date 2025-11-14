@@ -75,6 +75,12 @@
             <td><strong>HTML / Java / CSS</strong></td>
             <td><strong>Finish</strong></td>
         </tr>
+        <tr>
+            <th><strong>7</strong></th>
+            <td><strong>StarMe Store</strong></td>
+            <td><strong>HTML / JavavaScript</strong></td>
+            <td><strong>Finish</strong></td>
+        </tr>
         <!-- Add more projects and durations here -->
     </table>
 </div>
