@@ -79,7 +79,7 @@
             <th><strong>7</strong></th>
             <td><strong>StarMe Store</strong></td>
             <td><strong>HTML / JavavaScript</strong></td>
-            <td><strong>Finish</strong></td>
+            <td><strong>Finish (https://starme.space</strong></td>
         </tr>
         <!-- Add more projects and durations here -->
     </table>
