@@ -81,6 +81,12 @@
             <td><strong>HTML / JavavaScript</strong></td>
             <td><strong>Finish (https://starme.space</strong></td>
         </tr>
+        <tr>
+            <th><strong>8</strong></th>
+            <td><strong>WIF</strong></td>
+            <td><strong>SwiftUI / HTML / JS</strong></td>
+            <td><strong>Finish</strong></td>
+        </tr>
         <!-- Add more projects and durations here -->
     </table>
 </div>
