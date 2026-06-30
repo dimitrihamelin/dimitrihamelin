@@ -85,7 +85,7 @@
             <th><strong>8</strong></th>
             <td><strong>WIF</strong></td>
             <td><strong>SwiftUI / HTML / JS</strong></td>
-            <td><strong>Finish</strong></td>
+            <td><strong>In process</strong></td>
         </tr>
         <!-- Add more projects and durations here -->
     </table>
